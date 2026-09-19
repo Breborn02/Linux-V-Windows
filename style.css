@@ -1,0 +1,76 @@
+.os-comparison {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.linux,
+.windows {
+    width: 45%;
+}
+.text-center-wrapper {
+  text-align: center; 
+}
+body {
+  background-color: rgb(139, 173, 247);
+}
+.rounded-box {
+  border: 2px solid #1900ff;   
+  border-radius: 12px;         
+  padding-top: 5px;               
+  background-color: #96cbe4;   
+   margin-bottom: 20px           
+}
+
+.rounded-box2 {
+  border: 2px solid #1900ff;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #96cbe4;
+  margin-bottom: 20px;
+  width: 35%;
+   margin: 0 auto 20px auto; 
+}
+
+.rounded-box3 {
+  border: 2px solid #1900ff;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #96cbe4;
+  margin-bottom: 20px;
+  width: 80%;
+   margin: 0 auto 20px auto; 
+}
+
+.rounded-box4 {
+  border: 2px solid #1900ff;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #96cbe4;
+  margin-bottom: 20px;
+  width: 90%;
+   margin: 0 auto 20px auto; 
+}
+.rounded-box5 {
+  border: 2px solid #1900ff;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #96cbe4;
+  margin-bottom: 20px;
+  width: 90%;
+   margin: 0 auto 20px auto; 
+}
+.rounded-box6 {
+  border: 2px solid #1900ff;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #96cbe4;
+  margin-bottom: 20px;
+  width: 40%;
+   margin: 0 auto 20px auto; 
+}
