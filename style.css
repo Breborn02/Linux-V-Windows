@@ -4,73 +4,81 @@
     gap: 50px;
 }
 
-.linux,
-.windows {
-    width: 45%;
-}
-.text-center-wrapper {
-  text-align: center; 
-}
 body {
   background-color: rgb(139, 173, 247);
 }
-.rounded-box {
-  border: 2px solid #1900ff;   
-  border-radius: 12px;         
-  padding-top: 5px;               
-  background-color: #96cbe4;   
-   margin-bottom: 20px           
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
 }
 
-.rounded-box2 {
-  border: 2px solid #1900ff;
-  border-radius: 5px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #96cbe4;
-  margin-bottom: 20px;
-  width: 35%;
-   margin: 0 auto 20px auto; 
+ img,iframe {
+    width: 100%;
+    max-width: 600px;        
+    aspect-ratio: 16 / 9;    
+    height: auto;            
+    border: none;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto 0 auto; 
 }
 
-.rounded-box3 {
-  border: 2px solid #1900ff;
-  border-radius: 5px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #96cbe4;
-  margin-bottom: 20px;
-  width: 80%;
-   margin: 0 auto 20px auto; 
+p {
+    margin-bottom: 16px;
+    color: #010102;
+}
+h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #040508;
+    margin-bottom: 8px;
+}
+h2 {
+    font-size: 1.5rem;
+    color: #040507;
+    margin-top: 32px;
+    margin-bottom: 12px;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 6px;
 }
 
-.rounded-box4 {
-  border: 2px solid #1900ff;
-  border-radius: 5px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #96cbe4;
-  margin-bottom: 20px;
-  width: 90%;
-   margin: 0 auto 20px auto; 
+h3 {
+    font-size: 1.25rem;
+    margin-bottom: 8px;
 }
-.rounded-box5 {
-  border: 2px solid #1900ff;
-  border-radius: 5px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #96cbe4;
-  margin-bottom: 20px;
-  width: 90%;
-   margin: 0 auto 20px auto; 
+
+body {
+    font-family: 'Segoe UI';
+    line-height: 1.6;
+    color: #dce0e7;
+    background-color:#044875;
+;
+    padding: 20px;
 }
-.rounded-box6 {
-  border: 2px solid #1900ff;
-  border-radius: 5px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #96cbe4;
-  margin-bottom: 20px;
-  width: 40%;
-   margin: 0 auto 20px auto; 
+
+
+.os-column {
+    background: #044875;
+    border: 1px solid #e4e015;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.card {
+    background: #fcfcfc;
+    padding: 24px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.byline {
+    .byline {
+    color: #000000; 
+    font-weight: 600; 
+}
 }
