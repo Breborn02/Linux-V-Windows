@@ -1,1 +1,2 @@
 # Linux-V-Windows Website
+Originally this is a project for my AP computer science class although i wanted to make something quick and easy i decided to take it seriously and spent a night coding it overall thhis is my first time doing something like this and im sure i will have more projects like this to add in the future but for now this is my first time ever coding a website using HTML its a genuine guide on whether someone should use Windows or Linux as their first PC operating systen
